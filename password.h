@@ -4,7 +4,7 @@
 
 #include <string>
 
-std::string password = "insert_your_passport_here";
+std::string password = "insert_your_password_here";
 
 
 
