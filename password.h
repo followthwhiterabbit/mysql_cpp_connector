@@ -4,17 +4,7 @@
 
 #include <string>
 
-std::string password = "karaalioglu162534*"; 
-
-
-
-
-
-
-
-
-
-
+std::string password = "insert_your_passport_here";
 
 
 
